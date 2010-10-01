@@ -1,0 +1,10 @@
+A small program to decode UTF-8 sequence.
+
+Program takes UTF-8 as cmdline input
+
+example:
+   ./a.out 0xC2 0xA9
+
+Output is printed on the stdout
+
+NOTE: This is a basic program to convert UTF-8. more error checks could have been put in
