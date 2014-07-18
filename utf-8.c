@@ -1,7 +1,7 @@
 /*
 
 Basic UTF-8 decoding program. 
-1) check for the lenght of sequence
+1) check for the length of sequence
 2) try to decode it
    after checking the signature 
       011... 10...
